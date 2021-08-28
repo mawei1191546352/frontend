@@ -12,8 +12,8 @@
 
 - [移动端项目豆瓣电影](https://ppambler.github.io/xdmala/#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%A1%B9%E7%9B%AE%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1)
 - [DOM 探索之基础详解篇](https://ppambler.github.io/js/02/)
-- [JS 面向对象之深度解析](https://ppambler.github.io/xdmala/13-JS%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/) `Not Completed`
-- [全面攻克 JS 底层的三座大山](https://ppambler.github.io/zf-fe/02-JS/) `Not Completed`
+- [JavaScript 面向对象之深度解析](https://ppambler.github.io/xdmala/13-JS%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/) `Not Completed`
+- [全面攻克 JavaScript 底层的三座大山](https://ppambler.github.io/zf-fe/02-JS/) `Not Completed`
 - [原生的力量——原生 JavaScript 开发高级课程](https://ppambler.github.io/js/03/) `Not Completed`
 
 ## ★HTML 和 CSS
@@ -40,7 +40,7 @@
 
 ### <mark>1）Vue</mark>
 
-- - [自制 UI 框架（简易版）](https://ppambler.github.io/xdmala/#%E8%87%AA%E5%88%B6-ui-%E6%A1%86%E6%9E%B6%E7%AE%80%E6%98%93%E7%89%88)
+- [自制 UI 框架（简易版）](https://ppambler.github.io/xdmala/#%E8%87%AA%E5%88%B6-ui-%E6%A1%86%E6%9E%B6%E7%AE%80%E6%98%93%E7%89%88)
 - [Vue 全解](https://ppambler.github.io/vue/01/)
 - [旺财记账（Vue / 本地版）](https://ppambler.github.io/vue/04/)
 
