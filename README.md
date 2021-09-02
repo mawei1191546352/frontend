@@ -6,7 +6,7 @@
 
 - [极客时间-前端进阶训练营](https://ppambler.github.io/geek-univ-fe/) `Not Completed`
 - [极客时间-前端实战训练营](https://ppambler.github.io/Geek-FE-CombatTrainingCamp/) `Not Completed`
-- [拉钩-大前端高薪训练营](https://ppambler.github.io/lagou-fe/faq.html) `Doing`
+- [拉钩-大前端高薪训练营](https://ppambler.github.io/lagou-fe/) `Doing`
 
 ## ★JavaScript
 
