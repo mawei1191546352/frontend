@@ -7,3 +7,4 @@
 - `思维` 你眼中的普通，在他人的眼中可不普通：[这十个思维方式如何改变我的人生（2020）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1A5411E7zG)
 - `思维` 在你的圈内，你学，在你的圈外，得舍：[【斗笑社TV】《德云斗笑社》郭德纲于谦给老秦补课 - YouTube](https://www.youtube.com/watch?v=9-6-znKtxqw)
 - `思维` 干就完了：[花半年写12万字小说，我放弃了……_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19L4y187CF?spm_id_from=333.999.0.0)
+- `技巧` 透过视觉原理让你的穿搭显胖显瘦显高显矮：[全程看呆！穿搭的视觉原理原来这么有意思！！男女通用，看完感觉几十年衣服白穿了！！！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/s/video/BV18p4y1b7Fc)
