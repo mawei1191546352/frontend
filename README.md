@@ -7,7 +7,7 @@
 - [文章转载](./posts/README.md)
 - [英文翻译](./english/README.md)
 - [有点变化](./nice/README.md)
-- [站点导航](./web/README.md)
+- [常去网站](./web/README.md)
 - [这是什么](./what/README.md)
 
 ## ★体系课
