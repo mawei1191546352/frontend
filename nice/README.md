@@ -8,3 +8,4 @@
 - `思维` 在你的圈内，你学，在你的圈外，得舍：[【斗笑社TV】《德云斗笑社》郭德纲于谦给老秦补课 - YouTube](https://www.youtube.com/watch?v=9-6-znKtxqw)
 - `思维` 干就完了：[花半年写12万字小说，我放弃了……_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19L4y187CF?spm_id_from=333.999.0.0)
 - `技巧` 透过视觉原理让你的穿搭显胖显瘦显高显矮：[全程看呆！穿搭的视觉原理原来这么有意思！！男女通用，看完感觉几十年衣服白穿了！！！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/s/video/BV18p4y1b7Fc)
+- `思维` 归功于外，归因于己、公司是球（核心竞争力），投影是结果（收益等），阳光是环境、风口等：[清华97年人工智能创业公司CEO：荣华富贵守不住，唯有好人留其名 - 约饭日记018_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pq4y1P7ts)、极客时间小盖视频号的「悟透这句话，我用了十年时间」
