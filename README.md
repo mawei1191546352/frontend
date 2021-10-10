@@ -29,6 +29,7 @@
 - [德国 Max 的 CSS 3 终极前端开发指南](https://ppambler.github.io/xdmala/10-%E5%BE%B7%E5%9B%BDMax%E7%9A%84CSS3%E7%BB%88%E6%9E%81%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/README.html) `Not Completed`
 - [CSS 高级进阶 01 期](https://ppambler.github.io/css3/01/) `Not Completed`
 - [前端主流布局系统进阶与实战](https://ppambler.github.io/css3/02/) `2021-09-23` `Doing`
+- [宽高详解](https://ppambler.github.io/css3/03/) `2021-10-05` `Doing` `2021-10-10` `Done`
 
 ## ★计算机基础
 
