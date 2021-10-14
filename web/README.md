@@ -2,6 +2,7 @@
 
 # 常去网站
 
-## ★下载视频
+## ★工具
 
 - [哔哩哔哩 (bilibili) 视频解析下载 - 保存 B 站视频到手机、电脑](https://bilibili.iiilab.com/)
+- [木及简历](https://www.mujicv.com/editor/)
