@@ -1,6 +1,6 @@
 # Frontend
 
-> [FAQ](./faq.md)
+> [FAQ](./faq.md)、[How](./how.md)
 
 ## ★Inbox
 
