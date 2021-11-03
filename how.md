@@ -45,3 +45,46 @@ ffmpeg -i 2.mp4 -f mp3 -vn temp.mp3
 ➹：[Windows 安装 ffmpeg 并从视频中提取音频_大葱敏的博客-CSDN 博客](https://blog.csdn.net/csm201314/article/details/83247566)
 
 ---
+
+### <mark>3）在 git push 的时候报错了？</mark>
+
+``` txt
+kex_exchange_identification: Connection closed by remote host
+Connection closed by 13.229.188.59 port 22
+fatal: Could not read from remote repository.  
+```
+
+配置了代理也不行
+
+如何解决？
+
+在`.ssh`目录下创建一个`config`文件，添加以下配置：
+
+``` txt
+Host github.com
+User xxx@gmail.com
+Hostname ssh.github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+Port 443
+```
+
+➹：[GitHub 上传踩坑与问题解决_Redfieldw 的博客-CSDN 博客](https://blog.csdn.net/qq_40328147/article/details/119619632)
+
+➹：[SSH Config 那些你所知道和不知道的事 - Deepzz's Blog](https://deepzz.com/post/how-to-setup-ssh-config.html)
+
+### <mark>4）`.gitignore` 规则不生效？</mark>
+
+在项目开发过程中，一般都会添加 `.gitignore` 文件，规则很简单，但有时会发现，规则不生效。
+
+原因是 `.gitignore` 只能忽略那些原来没有被 `track` 的文件，如果某些文件已经被纳入了版本管理中，则修改 `.gitignore` 是无效的。
+
+那么解决方法就是先把本地缓存删除（改变成未 `track` 状态），然后再提交。
+
+``` bash
+git rm -r --cached .
+git add .
+git commit -m 'update .gitignore'
+```
+
+你不想再提交这个`faq.md`了，但之前你已经提交过了，此时你先把这个`faq.md`给删了，然后提交到远程仓库中 -> 接着把本地缓存删除，把`faq.md`再添加回来 -> 此时`.gitignore`就生效了！
