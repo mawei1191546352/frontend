@@ -48,7 +48,7 @@ ffmpeg -i 2.mp4 -f mp3 -vn temp.mp3
 
 ### <mark>3）在 git push 的时候报错了？</mark>
 
-``` txt
+``` js
 kex_exchange_identification: Connection closed by remote host
 Connection closed by 13.229.188.59 port 22
 fatal: Could not read from remote repository.  
@@ -60,7 +60,7 @@ fatal: Could not read from remote repository.
 
 在`.ssh`目录下创建一个`config`文件，添加以下配置：
 
-``` txt
+``` js
 Host github.com
 User xxx@gmail.com
 Hostname ssh.github.com
