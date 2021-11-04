@@ -88,3 +88,29 @@ git commit -m 'update .gitignore'
 ```
 
 你不想再提交这个`faq.md`了，但之前你已经提交过了，此时你先把这个`faq.md`给删了，然后提交到远程仓库中 -> 接着把本地缓存删除，把`faq.md`再添加回来 -> 此时`.gitignore`就生效了！
+
+### <mark>5）如何下载 B 站视频？</mark>
+
+用 `you-get` 就好了
+
+![you-get](assets/img/2021-11-04-11-56-52.png)
+
+通过下边这个工具去安装`you-get`：
+
+[LussacZheng/video-downloader-deploy: Video Downloaders (you-get, youtube-dl, annie) One-Click Deployment Batch. 视频下载器 (you-get, youtube-dl, annie) 一键配置脚本。](https://github.com/LussacZheng/video-downloader-deploy)
+
+![you-get](assets/img/2021-11-04-12-03-04.png)
+
+我是在`you-get`更新之前的几小时下载的，所以我起初下载了一个`0.4.1545`版本 -> 结果该版本不能下载 B 站的视频
+
+于是我去了官网，发现它已经更新了，有了一个`0.4.1555`版本：
+
+![you-get](assets/img/2021-11-04-12-05-51.png)
+
+那我该如何更新呢？
+
+![更新](assets/img/2021-11-04-12-08-25.png)
+
+`0.4.4545`版本我测试了一下可以下载资源，但是 B 站的就不行了，我尝试过用 `you-get https://www.bilibili.com/video/av`+`aid`的姿势、也试过什么加双引号之类的，结果都不行 -> 猜测会有版本更新 -> 于是就去更新了`you-get` -> 再次下载 B 站视频，ok！
+
+➹：[soimort/you-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
