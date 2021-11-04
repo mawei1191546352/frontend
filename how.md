@@ -132,3 +132,13 @@ git commit -m 'update .gitignore'
 ➹：[soimort/you-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 
 ➹：[如何批量下载bilibili的视频？ - zhtz的回答 - 知乎](https://www.zhihu.com/question/49793759/answer/269381987)
+
+### <mark>6）如何为终端临时配置代理？</mark>
+
+直接在终端执行这个：
+
+``` bash
+export http_proxy=http://127.0.0.1:1080;export https_proxy=http://127.0.0.1:1080;
+```
+
+之后，在这个终端的操作，都会走这个临时代理！ -> 终端关闭了，意味着这个代理没了！ -> 再用的话，那就再打开终端，再执行上边的代理配置
