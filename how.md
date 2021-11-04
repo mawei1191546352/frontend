@@ -89,7 +89,9 @@ git commit -m 'update .gitignore'
 
 你不想再提交这个`faq.md`了，但之前你已经提交过了，此时你先把这个`faq.md`给删了，然后提交到远程仓库中 -> 接着把本地缓存删除，把`faq.md`再添加回来 -> 此时`.gitignore`就生效了！
 
-### <mark>5）如何下载 B 站视频？</mark>
+### <mark>5）如何批量下载 B 站视频？</mark>
+
+> 如果是单个视频，我就去第三方的网站输入视频地址，然后下载了！
 
 用 `you-get` 就好了
 
@@ -111,6 +113,22 @@ git commit -m 'update .gitignore'
 
 ![更新](assets/img/2021-11-04-12-08-25.png)
 
+一些 `you-get` 的参数：
+
+``` js
+-l 网址                # 批量下载这个网址下的所有视频
+-c 浏览器的cookies文件  # 通过浏览器的 cookies 可以下载会员才能看的视频
+--no-caption          # 不下载字幕文件
+-O 保存的文件名         # 在仅下载一个文件时指定文件名
+-o 保存的目录           # 指定下载的文件保存的目录
+```
+
+---
+
+小结：
+
 `0.4.4545`版本我测试了一下可以下载资源，但是 B 站的就不行了，我尝试过用 `you-get https://www.bilibili.com/video/av`+`aid`的姿势、也试过什么加双引号之类的，结果都不行 -> 猜测会有版本更新 -> 于是就去更新了`you-get` -> 再次下载 B 站视频，ok！
 
 ➹：[soimort/you-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
+
+➹：[如何批量下载bilibili的视频？ - zhtz的回答 - 知乎](https://www.zhihu.com/question/49793759/answer/269381987)
